@@ -1,0 +1,14 @@
+C:\Users\Desmond\Desktop\C#denemelerim\RandomPush\RandomPush\bin\Debug\RandomPush.exe.config
+C:\Users\Desmond\Desktop\C#denemelerim\RandomPush\RandomPush\bin\Debug\RandomPush.exe
+C:\Users\Desmond\Desktop\C#denemelerim\RandomPush\RandomPush\bin\Debug\RandomPush.pdb
+C:\Users\Desmond\Desktop\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.csprojAssemblyReference.cache
+C:\Users\Desmond\Desktop\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.csproj.CoreCompileInputs.cache
+C:\Users\Desmond\Desktop\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.exe
+C:\Users\Desmond\Desktop\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.pdb
+C:\Users\KolsuzHacker\Desktop\Yazılım\C#denemelerim\RandomPush\RandomPush\bin\Debug\RandomPush.exe.config
+C:\Users\KolsuzHacker\Desktop\Yazılım\C#denemelerim\RandomPush\RandomPush\bin\Debug\RandomPush.exe
+C:\Users\KolsuzHacker\Desktop\Yazılım\C#denemelerim\RandomPush\RandomPush\bin\Debug\RandomPush.pdb
+C:\Users\KolsuzHacker\Desktop\Yazılım\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.csprojAssemblyReference.cache
+C:\Users\KolsuzHacker\Desktop\Yazılım\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.csproj.CoreCompileInputs.cache
+C:\Users\KolsuzHacker\Desktop\Yazılım\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.exe
+C:\Users\KolsuzHacker\Desktop\Yazılım\C#denemelerim\RandomPush\RandomPush\obj\Debug\RandomPush.pdb
